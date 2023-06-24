@@ -1,0 +1,36 @@
+body{
+    background-color: black;
+    color:white;
+    font-family:Courier New;
+
+}
+nav{
+   margin: 20px 0px;
+   padding: 20px 0px;
+   text-align: center;
+}
+
+nav a {
+     color:white ;
+    text-decoration: none;
+    padding-right: 60px; 
+   
+}
+.com {
+    background-color:rgb(238, 248, 244);
+    color: black;
+    padding: 10px 25px;
+    border-radius: 10px;
+}
+h1 {
+    font-size: 36px;
+    color: rgb(255, 0, 230);
+    font-weight: normal;
+    padding-bottom: 5px;
+    text-align: center;
+}
+p{
+
+    border: 3px dotted  rgb(255, 0, 230) ;
+    text-align: justify;
+}
